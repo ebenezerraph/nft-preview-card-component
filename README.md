@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/ebenezerraph/nft-preview-card-component)
-- Live Site URL: [Product Preview Card Component](https://ebenezerraph.github.io/nft-preview-card-component/)
+- Live Site URL: [NFT preview card component](https://ebenezerraph.github.io/nft-preview-card-component/)
 
 ## My process
 
