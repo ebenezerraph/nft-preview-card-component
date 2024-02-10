@@ -43,4 +43,4 @@ Users should be able to:
 
 - GitHub - [@ebenezerraph](https://www.github.com/ebenezerraph)
 - Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
-- Twitter - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
+- X - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
