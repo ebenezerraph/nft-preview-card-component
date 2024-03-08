@@ -13,11 +13,16 @@ body {
   font-family: 'Outfit';
   color: hsl(215, 51%, 70%);
   background-color: hsl(217, 54%, 11%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
 }
 main {
   width: 342px;
   background-color: hsl(216, 50%, 16%);
-  margin: 10% auto 30px;
+  margin-bottom: 30px;
   box-sizing: border-box;
   padding: 20px;
   border-radius: 20px;
