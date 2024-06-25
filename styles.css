@@ -23,7 +23,7 @@ body {
 main {
   width: 342px;
   background-color: hsl(216, 50%, 16%);
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   box-sizing: border-box;
   padding: 20px;
   border-radius: 20px;
