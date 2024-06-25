@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/nft-preview-card-component.jpg)
+![]()
 
 ### Links
 
@@ -41,6 +41,5 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [@ebenezerraph](https://www.github.com/ebenezerraph)
 - Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
-- X - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
+- X - [@ebenezerraph](https://www.x.com/ebenezerraph)
