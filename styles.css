@@ -56,12 +56,13 @@ hr+div>span {
   color: hsl(0, 0%, 100%);
 }
 
-hr+div>span:hover {
+h2:hover, hr+div>span:hover {
   color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 
-h2:hover {
-  color: hsl(178, 100%, 50%);
+h2 {
+  width: fit-content;
 }
 
 p+div>span {
